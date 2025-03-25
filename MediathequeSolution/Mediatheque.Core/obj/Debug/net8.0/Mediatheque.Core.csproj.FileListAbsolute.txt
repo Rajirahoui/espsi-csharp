@@ -1,0 +1,11 @@
+/Users/rajirahoui/Desktop/c#/MediathequeSolution/Mediatheque.Core/bin/Debug/net8.0/Mediatheque.Core.deps.json
+/Users/rajirahoui/Desktop/c#/MediathequeSolution/Mediatheque.Core/bin/Debug/net8.0/Mediatheque.Core.dll
+/Users/rajirahoui/Desktop/c#/MediathequeSolution/Mediatheque.Core/bin/Debug/net8.0/Mediatheque.Core.pdb
+/Users/rajirahoui/Desktop/c#/MediathequeSolution/Mediatheque.Core/obj/Debug/net8.0/Mediatheque.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajirahoui/Desktop/c#/MediathequeSolution/Mediatheque.Core/obj/Debug/net8.0/Mediatheque.Core.AssemblyInfoInputs.cache
+/Users/rajirahoui/Desktop/c#/MediathequeSolution/Mediatheque.Core/obj/Debug/net8.0/Mediatheque.Core.AssemblyInfo.cs
+/Users/rajirahoui/Desktop/c#/MediathequeSolution/Mediatheque.Core/obj/Debug/net8.0/Mediatheque.Core.csproj.CoreCompileInputs.cache
+/Users/rajirahoui/Desktop/c#/MediathequeSolution/Mediatheque.Core/obj/Debug/net8.0/Mediatheque.Core.dll
+/Users/rajirahoui/Desktop/c#/MediathequeSolution/Mediatheque.Core/obj/Debug/net8.0/refint/Mediatheque.Core.dll
+/Users/rajirahoui/Desktop/c#/MediathequeSolution/Mediatheque.Core/obj/Debug/net8.0/Mediatheque.Core.pdb
+/Users/rajirahoui/Desktop/c#/MediathequeSolution/Mediatheque.Core/obj/Debug/net8.0/ref/Mediatheque.Core.dll

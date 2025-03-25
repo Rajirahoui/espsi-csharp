@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "Mediatheque.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Mediatheque.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Mediatheque.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mediatheque.Core/1.0.0": {
+      "type": "project",
+      "path": "../Mediatheque.Core/Mediatheque.Core.csproj",
+      "msbuildProject": "../Mediatheque.Core/Mediatheque.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "Mediatheque.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/user/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/user/Desktop/Epsi/csharp/MediathequeSolution/Mediatheque.Cli/Mediatheque.Cli.csproj",
+      "projectName": "Mediatheque.Cli",
+      "projectPath": "/Users/user/Desktop/Epsi/csharp/MediathequeSolution/Mediatheque.Cli/Mediatheque.Cli.csproj",
+      "packagesPath": "/Users/user/.nuget/packages/",
+      "outputPath": "/Users/user/Desktop/Epsi/csharp/MediathequeSolution/Mediatheque.Cli/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/user/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "/Users/user/Desktop/Epsi/csharp/MediathequeSolution/Mediatheque.Core/Mediatheque.Core.csproj": {
+              "projectPath": "/Users/user/Desktop/Epsi/csharp/MediathequeSolution/Mediatheque.Core/Mediatheque.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
