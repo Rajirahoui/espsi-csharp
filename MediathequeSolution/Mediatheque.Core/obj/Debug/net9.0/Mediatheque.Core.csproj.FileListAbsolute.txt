@@ -20,3 +20,15 @@
 /Users/user/Desktop/Epsi/csharp/MediathequeSolution/Mediatheque.Core/obj/Debug/net9.0/refint/Mediatheque.Core.dll
 /Users/user/Desktop/Epsi/csharp/MediathequeSolution/Mediatheque.Core/obj/Debug/net9.0/Mediatheque.Core.pdb
 /Users/user/Desktop/Epsi/csharp/MediathequeSolution/Mediatheque.Core/obj/Debug/net9.0/ref/Mediatheque.Core.dll
+/Users/user/Documents/GitHub/espsi---csharp/MediathequeSolution/Mediatheque.Core/bin/Debug/net9.0/Mediatheque.Core.deps.json
+/Users/user/Documents/GitHub/espsi---csharp/MediathequeSolution/Mediatheque.Core/bin/Debug/net9.0/Mediatheque.Core.dll
+/Users/user/Documents/GitHub/espsi---csharp/MediathequeSolution/Mediatheque.Core/bin/Debug/net9.0/Mediatheque.Core.pdb
+/Users/user/Documents/GitHub/espsi---csharp/MediathequeSolution/Mediatheque.Core/obj/Debug/net9.0/Mediatheque.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/GitHub/espsi---csharp/MediathequeSolution/Mediatheque.Core/obj/Debug/net9.0/Mediatheque.Core.AssemblyInfoInputs.cache
+/Users/user/Documents/GitHub/espsi---csharp/MediathequeSolution/Mediatheque.Core/obj/Debug/net9.0/Mediatheque.Core.AssemblyInfo.cs
+/Users/user/Documents/GitHub/espsi---csharp/MediathequeSolution/Mediatheque.Core/obj/Debug/net9.0/Mediatheque.Core.csproj.CoreCompileInputs.cache
+/Users/user/Documents/GitHub/espsi---csharp/MediathequeSolution/Mediatheque.Core/obj/Debug/net9.0/Mediatheque.Core.sourcelink.json
+/Users/user/Documents/GitHub/espsi---csharp/MediathequeSolution/Mediatheque.Core/obj/Debug/net9.0/Mediatheque.Core.dll
+/Users/user/Documents/GitHub/espsi---csharp/MediathequeSolution/Mediatheque.Core/obj/Debug/net9.0/refint/Mediatheque.Core.dll
+/Users/user/Documents/GitHub/espsi---csharp/MediathequeSolution/Mediatheque.Core/obj/Debug/net9.0/Mediatheque.Core.pdb
+/Users/user/Documents/GitHub/espsi---csharp/MediathequeSolution/Mediatheque.Core/obj/Debug/net9.0/ref/Mediatheque.Core.dll

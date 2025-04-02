@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user/Desktop/Epsi/csharp/MediathequeSolution/Mediatheque.Core/Mediatheque.Core.csproj",
+      "projectUniqueName": "/Users/user/Documents/GitHub/espsi---csharp/MediathequeSolution/Mediatheque.Core/Mediatheque.Core.csproj",
       "projectName": "Mediatheque.Core",
-      "projectPath": "/Users/user/Desktop/Epsi/csharp/MediathequeSolution/Mediatheque.Core/Mediatheque.Core.csproj",
+      "projectPath": "/Users/user/Documents/GitHub/espsi---csharp/MediathequeSolution/Mediatheque.Core/Mediatheque.Core.csproj",
       "packagesPath": "/Users/user/.nuget/packages/",
-      "outputPath": "/Users/user/Desktop/Epsi/csharp/MediathequeSolution/Mediatheque.Core/obj/",
+      "outputPath": "/Users/user/Documents/GitHub/espsi---csharp/MediathequeSolution/Mediatheque.Core/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/user/.nuget/NuGet/NuGet.Config"

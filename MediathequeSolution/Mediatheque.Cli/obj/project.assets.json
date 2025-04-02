@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user/Desktop/Epsi/csharp/MediathequeSolution/Mediatheque.Cli/Mediatheque.Cli.csproj",
+      "projectUniqueName": "/Users/user/Documents/GitHub/espsi---csharp/MediathequeSolution/Mediatheque.Cli/Mediatheque.Cli.csproj",
       "projectName": "Mediatheque.Cli",
-      "projectPath": "/Users/user/Desktop/Epsi/csharp/MediathequeSolution/Mediatheque.Cli/Mediatheque.Cli.csproj",
+      "projectPath": "/Users/user/Documents/GitHub/espsi---csharp/MediathequeSolution/Mediatheque.Cli/Mediatheque.Cli.csproj",
       "packagesPath": "/Users/user/.nuget/packages/",
-      "outputPath": "/Users/user/Desktop/Epsi/csharp/MediathequeSolution/Mediatheque.Cli/obj/",
+      "outputPath": "/Users/user/Documents/GitHub/espsi---csharp/MediathequeSolution/Mediatheque.Cli/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/user/.nuget/NuGet/NuGet.Config"
@@ -51,8 +51,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/user/Desktop/Epsi/csharp/MediathequeSolution/Mediatheque.Core/Mediatheque.Core.csproj": {
-              "projectPath": "/Users/user/Desktop/Epsi/csharp/MediathequeSolution/Mediatheque.Core/Mediatheque.Core.csproj"
+            "/Users/user/Documents/GitHub/espsi---csharp/MediathequeSolution/Mediatheque.Core/Mediatheque.Core.csproj": {
+              "projectPath": "/Users/user/Documents/GitHub/espsi---csharp/MediathequeSolution/Mediatheque.Core/Mediatheque.Core.csproj"
             }
           }
         }

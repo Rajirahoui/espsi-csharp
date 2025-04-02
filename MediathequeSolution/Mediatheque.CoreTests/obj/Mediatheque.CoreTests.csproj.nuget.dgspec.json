@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Desktop/Epsi/csharp/MediathequeSolution/Mediatheque.CoreTests/Mediatheque.CoreTests.csproj": {}
+    "/Users/user/Documents/GitHub/espsi---csharp/MediathequeSolution/Mediatheque.CoreTests/Mediatheque.CoreTests.csproj": {}
   },
   "projects": {
-    "/Users/user/Desktop/Epsi/csharp/MediathequeSolution/Mediatheque.Core/Mediatheque.Core.csproj": {
+    "/Users/user/Documents/GitHub/espsi---csharp/MediathequeSolution/Mediatheque.Core/Mediatheque.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Desktop/Epsi/csharp/MediathequeSolution/Mediatheque.Core/Mediatheque.Core.csproj",
+        "projectUniqueName": "/Users/user/Documents/GitHub/espsi---csharp/MediathequeSolution/Mediatheque.Core/Mediatheque.Core.csproj",
         "projectName": "Mediatheque.Core",
-        "projectPath": "/Users/user/Desktop/Epsi/csharp/MediathequeSolution/Mediatheque.Core/Mediatheque.Core.csproj",
+        "projectPath": "/Users/user/Documents/GitHub/espsi---csharp/MediathequeSolution/Mediatheque.Core/Mediatheque.Core.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Desktop/Epsi/csharp/MediathequeSolution/Mediatheque.Core/obj/",
+        "outputPath": "/Users/user/Documents/GitHub/espsi---csharp/MediathequeSolution/Mediatheque.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.nuget/NuGet/NuGet.Config"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "/Users/user/Desktop/Epsi/csharp/MediathequeSolution/Mediatheque.CoreTests/Mediatheque.CoreTests.csproj": {
+    "/Users/user/Documents/GitHub/espsi---csharp/MediathequeSolution/Mediatheque.CoreTests/Mediatheque.CoreTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Desktop/Epsi/csharp/MediathequeSolution/Mediatheque.CoreTests/Mediatheque.CoreTests.csproj",
+        "projectUniqueName": "/Users/user/Documents/GitHub/espsi---csharp/MediathequeSolution/Mediatheque.CoreTests/Mediatheque.CoreTests.csproj",
         "projectName": "Mediatheque.CoreTests",
-        "projectPath": "/Users/user/Desktop/Epsi/csharp/MediathequeSolution/Mediatheque.CoreTests/Mediatheque.CoreTests.csproj",
+        "projectPath": "/Users/user/Documents/GitHub/espsi---csharp/MediathequeSolution/Mediatheque.CoreTests/Mediatheque.CoreTests.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Desktop/Epsi/csharp/MediathequeSolution/Mediatheque.CoreTests/obj/",
+        "outputPath": "/Users/user/Documents/GitHub/espsi---csharp/MediathequeSolution/Mediatheque.CoreTests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.nuget/NuGet/NuGet.Config"
@@ -85,8 +85,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/Users/user/Desktop/Epsi/csharp/MediathequeSolution/Mediatheque.Core/Mediatheque.Core.csproj": {
-                "projectPath": "/Users/user/Desktop/Epsi/csharp/MediathequeSolution/Mediatheque.Core/Mediatheque.Core.csproj"
+              "/Users/user/Documents/GitHub/espsi---csharp/MediathequeSolution/Mediatheque.Core/Mediatheque.Core.csproj": {
+                "projectPath": "/Users/user/Documents/GitHub/espsi---csharp/MediathequeSolution/Mediatheque.Core/Mediatheque.Core.csproj"
               }
             }
           }

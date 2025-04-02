@@ -21,5 +21,10 @@ namespace Mediatheque.Core.Service
         {
             return _fondDeCommerce.Count;
         }
+
+        public string GetListJeux(){
+            int count = _fondDeCommerce.Count(o => o is JeuxDeSociete);
+            return count > 0 ? count.ToString() : "pas de jeux";
+        }
     }
 }
